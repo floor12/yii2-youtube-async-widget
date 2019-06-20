@@ -1,0 +1,32 @@
+{
+  "name": "floor12/yii2-youtube-async-widget",
+  "description": "This widget renders youtube video placeholder with a poster. After click it replaces with real youtube embedded player.",
+  "type": "yii2-widger",
+  "minimum-stability": "stable",
+  "keywords": [
+    "floor12",
+    "yii2 component",
+    "yii2 widget",
+    "youtube",
+    "yii",
+    "yii2",
+    "yii 2"
+  ],
+  "require": {
+    "php": ">=5.3.0",
+    "yiisoft/yii2": "*"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "floor12",
+      "email": "primelifecoder@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "floor12\\youtube\\": ""
+    }
+  }
+}
